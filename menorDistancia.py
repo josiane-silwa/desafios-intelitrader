@@ -5,7 +5,7 @@ ni = 0;
 
 print("Digite 20 numeros: \n");
 #// reacebendo os numeros digitados e armazenando nos vetores
-while(ni <= 3):
+while(ni <= 20):
     a.append(int(input([ni])));
     b.append(int(input([ni])));
     ni = ni+1;
